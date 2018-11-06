@@ -73,12 +73,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-yelee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html 
 # github仓库地址
 deploy:
   type: git
-  repo: https://github.com/hhzhuanshennianfanhua/hhzhuanshennianfanhua.github.io.git
+  #repo: https://github.com/hhzhuanshennianfanhua/hhzhuanshennianfanhua.github.io.git
+  repo: git@github.com:hhzhuanshennianfanhua/hhzhuanshennianfanhua.github.io.git
   branch: master
